@@ -1,7 +1,7 @@
 # liqUID.com
 
 <div align="justify">
-Welcome to <b>liqUID.com</b>, the <b>LCL Protocol (Liquid Centric Lending Protocol)</b>. This decentralized, non-custodial framework is designed to solve a very practical problem: you cannot pay for coffee with a physical deed to your farm. By bringing real-world assets onto the blockchain, we convert static physical properties into fluid, borrowable capital. The live platform is hosted at <a href="https://ak-2045.github.io/liqUID/">https://ak-2045.github.io/liqUID</a>
+Welcome to <b>liqUID.com</b>, the <b>LCL Protocol (Liquid Centric Lending Protocol)</b>. This decentralized, non-custodial framework is designed to solve a very practical problem: you cannot pay for coffee with a physical deed to your farm. By bringing real-world assets onto the blockchain, we convert static physical properties into fluid, borrowable capital. The GitHub Pages deployment is a static HTML sandbox version of liqUID that showcases the user interface and overall workflow. To experience the complete platform with the FastAPI backend, smart contracts, Hardhat blockchain, database integration, and all lending and liquidation features, please run the project locally by following the setup instructions below. The sandbox version is available at <a href="https://ak-2045.github.io/liqUID/" target="_blank">https://ak-2045.github.io/liqUID</a>
 </div>
 <br>
 
