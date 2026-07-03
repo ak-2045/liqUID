@@ -3,6 +3,7 @@
 <div align="justify">
 Welcome to <b>liqUID.com</b>, the <b>LCL Protocol (Liquid Centric Lending Protocol)</b>. This decentralized, non-custodial framework is designed to solve a very practical problem: you cannot pay for coffee with a physical deed to your farm. By bringing real-world assets onto the blockchain, we convert static physical properties into fluid, borrowable capital. The live platform is hosted at <a href="https://[live-demo-url-placeholder].com">https://[live-demo-url-placeholder].com</a>.
 </div>
+<br>
 
 ![liqUID.com Hero Banner](hero_banner.png)
 
